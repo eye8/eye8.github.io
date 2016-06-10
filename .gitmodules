@@ -1,6 +1,3 @@
-[submodule "source/presentations"]
-	path = source/presentations
-	url = https://bitbucket.org/eye8/eye8-presentations.git
-[submodule "assets/presentations"]
-	path = assets/presentations
+[submodule "presentations"]
+	path = presentations
 	url = https://bitbucket.org/eye8/eye8-presentations.git
